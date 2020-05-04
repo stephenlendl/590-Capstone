@@ -1,4 +1,4 @@
-# 590testing
+# 590 Capstone Project
 
 This is the public repository of the QuasarRAT business monitoring software that we based our RAT off of
 https://github.com/quasar/QuasarRAT
